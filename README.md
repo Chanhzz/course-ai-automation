@@ -1,6 +1,6 @@
 # course-ai-automation
 
-Automation framework **Playwright + TypeScript** cho chức năng Login của url
+Automation framework **Playwright + TypeScript** cho chức năng Login của url1
 (https://crm.anhtester.com).
 
 ## Lưu ý quan trọng về URL login
