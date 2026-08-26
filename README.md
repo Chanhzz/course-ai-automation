@@ -94,4 +94,4 @@ npx playwright test --grep @smoke
   thay vì chỉ dựa vào text trên UI (site demo không hiển thị message lỗi khi login sai).
 - **Reporter**: list + HTML + JUnit XML (sẵn sàng cắm CI).
 - **Debug artifacts**: screenshot / video / trace tự lưu khi test fail.
-- **Đa trình duyệt**: chromium, firefox, webkit.
+- **Chỉ chạy trên Chrome** (project `chromium` - Desktop Chrome).
